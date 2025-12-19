@@ -92,6 +92,39 @@ menu.html
 </body>
 </html>
 
+contact.html
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>GreenLeaf Veg - Contact Us</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+<header>
+    <h1>Leafora Veg Restaurant</h1>
+</header>
+
+<nav>
+    <a href="home.html">Home</a>
+    <a href="menu.html">Menu</a>
+    <a href="admin.html">Administration</a>
+    <a href="contact.html">Contact Us</a>
+</nav>
+
+<section>
+    <div class="contact-container">
+        <h2>Contact Us</h2>
+        <p><b>Address:</b> 123 Green Street, Veg City, Tamil Nadu 600201</p>
+        <p><b>Phone:</b> +91 9876543210</p>
+        <p><b>Email:</b> contact@leafora.com</p>
+        <p><b>Opening Hours:</b> Mon-Sun: 10:00 AM - 11:00 PM</p>
+    </div>
+</section>
+</body>
+</html>
+
 index.css
 
 body {
