@@ -233,7 +233,7 @@ footer {
 
 ## OUTPUT:
 <img width="1916" height="1010" alt="Screenshot 2025-12-19 100336" src="https://github.com/user-attachments/assets/ba5a43ca-834b-4af3-ba02-cbbb93341516" />
-<img width="1913" height="1035" alt="Screenshot 2025-12-19 100354" src="https://github.com/user-attachments/assets/c62f9f34-406c-48da-a0c4-ebd52b0ab45f" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-19 110728" src="https://github.com/user-attachments/assets/d99ac06d-544f-4196-aa39-376b8697cc55" />
 <img width="1918" height="1024" alt="Screenshot 2025-12-19 100418" src="https://github.com/user-attachments/assets/7bde3b64-2056-49ed-af21-25d511444fe5" />
 <img width="1920" height="1080" alt="Screenshot 2025-12-19 100253" src="https://github.com/user-attachments/assets/296f6904-31dd-4847-a4cf-7d9872468fa0" />
 
